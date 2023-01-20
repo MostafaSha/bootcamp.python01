@@ -1,0 +1,6 @@
+a = int(input('enter first : '))
+b = input('enter second : ')
+c = float(input('enter third : '))
+print('type', (a), 'is ', type(a))
+print('type', b, 'is ', type(b))
+print('type', c, 'is ', type(c))
